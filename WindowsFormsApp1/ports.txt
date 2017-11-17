@@ -1,0 +1,1658 @@
+﻿0	TCP	Shirt Pocket netTunes. Shirt Pocket launchTunes.
+1	TCP	TCPMUX, TCP Port Service Multiplexer.
+2	TCP, UDP	Management Utility.
+3	TCP, UDP	Compression Process.
+5	TCP, UDP	Remote Job Entry.
+7	TCP, UDP	Echo.
+9	SCTP, TCP, UDP	Discard.
+11	TCP, UDP	SYSTAT.
+13	TCP, UDP	Daytime.	 
+17	TCP, UDP	Quote, Quote of the Day.
+18	TCP, UDP	RWP, Remote Write Protocol. Send, Message Send Protocol.
+19	TCP, UDP	Chargen, Character Generator Protocol.
+20	TCP	FTP, File Transfer Protocol, data.
+21	TCP	FTP, File Transfer Protocol, control.
+22	SCTP, TCP	SSH.
+23	TCP	Telnet.
+24	 	Any private mail system.
+25	TCP	SMTP, Simple Mail Transfer Protocol.
+27	TCP, UDP	NSW User System FE.
+29	TCP, UDP	MSG ICP.
+31	TCP, UDP	MSG Authentication.
+33	TCP, UDP	Display Support Protocol.
+35	 	Any private printer server.
+37	TCP, UDP	Time, Time Protocol.
+38	TCP, UDP	RAP, Internet Route Access Protocol.
+39	UDP	RLP, Resource Location Protocol.
+41	TCP, UDP	Graphics.
+42	UDP	Internet Name Server.
+43	TCP	Whois.
+44	TCP, UDP	MPM FLAGS Protocol.
+45	TCP	Internet Message Protocol.
+46	TCP, UDP	MPM [default send].
+47	TCP, UDP	NI FTP.
+48	TCP, UDP	Digital Audit Daemon.
+49	TCP	TACACS+. UDP	TACACS.
+50	UDP	RMCP, Remote Mail Checking Protocol.
+51	TCP, UDP	IMP Logical Address Maintenance.
+52	TCP, UDP	XNS Time Protocol.
+53	TCP, UDP	DNS, Domain Name System.
+54	TCP, UDP	XNS Clearinghouse.
+55	TCP, UDP	ISI Graphics Language.
+56	TCP, UDP	XNS Authentication.
+57	TCP	MTP, Mail Transfer Protocol.
+58	TCP, UDP	XNS Mail.
+59	TCP	NFILE.
+61	TCP, UDP	NI MAIL.
+62	TCP, UDP	ACA Services.
+63	TCP, UDP	Whois++.
+64	TCP, UDP	CI, Communications Integrator.
+65	TCP, UDP	TACACS-Database Service.
+66	TCP, UDP	Oracle SQL*NET.
+67	UDP	BOOTP, Bootstrap Protocol, server.
+68	UDP	BOOTP, Bootstrap Protocol, client.
+69	UDP	TFTP, Trivial File Transfer Protocol.
+70	TCP	Gopher.
+74	TCP, UDP	Remote Job Service.
+75	 	Any private dial out service.
+76	TCP, UDP	Distributed External Object Store.
+77	 	Any private RJE service.
+78	TCP, UDP	vettcp.
+79	TCP	Finger.
+80	TCP	HTTP, HyperText Transfer Protocol.
+82	TCP, UDP	XFER Utility.
+83	TCP, UDP	MIT ML Device.
+84	TCP, UDP	Common Trace Facility.
+85	TCP, UDP	MIT ML Device.
+86	TCP, UDP	Micro Focus Cobol.
+87	 	Any private terminal link.
+88	UDP	Kerberos.
+89	TCP, UDP	SU/MIT Telnet Gateway.
+90	TCP, UDP	Used unofficially by Pointcast. DNSIX Securit Attribute Token Map.
+91	TCP, UDP	MIT Dover Spooler.
+92	TCP, UDP	Network Printing Protocol.
+93	TCP, UDP	Device Control Protocol.
+94	TCP, UDP	Tivoli Object Dispatcher.
+95	 	SUPDUP.
+96	TCP, UDP	DIXIE.
+97	TCP, UDP	Swift Remote Virtual File Protocol.
+98	TCP, UDP	TAC News.
+99	TCP, UDP	Metagram Relay.
+101	TCP	HOSTNAME.
+102	TCP	TP0 over TCP.
+103	TCP, UDP	Genesis Point-to-Point Trans Net.
+104	 	ACR-NEMA Digital Imag. & Comm. 300.
+105	TCP	Ph.
+105	 	Mailbox Name Nameserver.
+106	 	3COM-TSMUX.
+107	 	Remote Telnet Service.
+108	 	SNA Gateway Access Server.
+109	TCP	POP, Post Office Protocol, version 2.
+110	TCP	POP, Post Office Protocol, version 3.
+111	 	Portmapper.
+112	 	McIDAS Data Transmission Protocol.
+113	TCP	Identification Protocol.
+115	TCP	SFTP, Simple File Transfer Protocol.
+116	 	ANSA REX Notify.
+117	TCP	UUCP, Unix To Unix Copy.
+118	 	SQL Services.
+119	TCP	NNTP, Network News Transfer Protocol.
+120	UDP	CFDP, Coherent File Distribution Protocol.
+121	 	Encore Expedited Remote Pro.Call.
+122	 	SMAKYNET.
+123	UDP	NTP, Network Time Protocol.
+124	 	ANSA REX Trader.
+125	 	Locus PC-Interface Net Map Serv.
+126	 	Unisys Unitary Login.
+127	 	Locus PC-Interface Conn Server.
+128	 	GSS X License Verification.
+129	TCP, UDP	PWDGEN, Password Generator Protocol.
+130	 	cisco FNATIVE.
+131	 	cisco TNATIVE.
+132	 	cisco SYSMAINT.
+133	TCP, UDP	STATSRV, Statistics Server.
+134	 	INGRES-NET Service.
+135	 	DCE endpoint resolution.
+136	 	PROFILE Naming System.
+137	 	NETBIOS Name Service.
+138	 	NETBIOS Datagram Service.
+139	 	NETBIOS Session Service.
+140	 	EMFIS Data Service.
+141	 	EMFIS Control Service.
+142	 	Britton-Lee IDM.
+143	TCP	IMAP, Interactive Mail Access Protocol.
+144	 	Universal Management Architecture.
+145	 	UAAC Protocol.
+146	 	TP0 bridge between TCP and X.25.
+147	UDP	ISO-IP.
+148	 	Jargon.
+149	 	AED 512 Emulation Service.
+150	 	SQL-NET.
+151	 	HEMS.
+152	TCP	BFTP, Background File Transfer Program.
+153	UDP	SGMP, Simple Gateway Monitoring Protocol.
+155	 	NETSC.
+156	 	SQL Service.
+157	 	KNET/VM Command/Message Protocol.
+158	TCP	DMSP, Distributed Mail Service Protocol.
+159	 	NSS-Routing.
+160	 	SGMP-TRAPS.
+161	TCP, UDP	SNMP, Simple Network Management Protocol.
+162	TCP, UDP	SNMP, Simple Network Management Protocol traps.
+163	 	CMIP/TCP Manager.
+164	 	CMIP/TCP Agent.
+165	 	Xerox.
+166	 	Sirius Systems.
+167	 	NAMP.
+168	 	RSVD.
+169	 	SEND.
+170	 	Network PostScript.
+171	 	Network Innovations Multiplex.
+172	 	Network Innovations CL/1.
+173	 	Xyplex.
+174	 	MAILQ.
+175	 	VMNET.
+176	 	GENRAD-MUX.
+177	 	XDMCP, X Display Manager Control Protocol.
+178	 	NextStep Window Server.
+179	TCP	BGP, Border Gateway Protocol.
+180	TCP, UDP	Intergraph.
+181	TCP, UDP	Unify.
+182	TCP, UDP	Unisys Audit SITP.
+183	 	OCBinder.
+184	 	OCServer.
+185	 	Knowbot Information Service.
+186	 	KIS Protocol.
+187	 	Application Communication Interface.
+188	 	Plus Five's MUMPS.
+189	 	Queued File Transport.
+190	 	Gateway Access Control Protocol.
+191	 	Prospero Directory Service.
+192	 	OSU Network Monitoring System.
+193	 	Spider Remote Monitoring Protocol.
+194	 	Internet Relay Chat Protocol.
+195	 	DNSIX Network Level Module Audit.
+196	 	DNSIX Session Mgt Module Audit Redir.
+197	 	Directory Location Service.
+198	 	Directory Location Service Monitor.
+199	TCP	SMUX.
+200	 	IBM System Resource Controller.
+201	 	AppleTalk Routing Maintenance.
+202	 	AppleTalk Name Binding.
+203	 	AppleTalk Unused.
+204	 	AppleTalk Echo.
+205	 	AppleTalk Unused.
+206	 	AppleTalk Zone Information.
+207	 	AppleTalk Unused.
+208	 	AppleTalk Unused.
+209	 	The Quick Mail Transfer Protocol.
+210	TCP	Z39.50.
+211	 	Texas Instruments 914C/G Terminal.
+212	 	ATEXSSTR.
+213	 	IPX.
+214	 	VM PWSCS.
+215	 	Insignia Solutions.
+216	 	Computer Associates Int'l License Server.
+217	 	dBASE Unix.
+218	TCP	MPP, Message Posting Protocol.
+219	 	Unisys ARPs.
+220	TCP	IMAP, Interactive Mail Access Protocol, version 3.
+221	 	Berkeley rlogind with SPX auth.
+222	 	Berkeley rshd with SPX auth.
+223	 	Certificate Distribution Center.
+242	 	Direct.
+243	 	Survey Measurement.
+244	 	Dayna.
+245	 	LINK.
+246	 	Display Systems Protocol.
+247	 	SUBNTBCST_TFTP.
+248	 	bhfhs.	 
+256	 	RAP.
+257	 	Secure Electronic Transaction.
+258	 	Yak Winsock Personal Chat.
+259	UDP	ESRO, Efficient Short Remote Operations.
+260	 	Openport.
+261	 	IIOP Name Service over TLS/SSL.
+262	 	Arcisdms.
+263	 	HDAP.
+264	TCP	BGMP, Border Gateway Multicast Protocol.
+265	 	X-Bone CTL.
+266	 	SCSI on ST.
+267	 	Tobit David Service Layer.
+268	 	Tobit David Replica.
+269	 	MANET protocols.
+270	UDP	GIST Q-mode messages.
+271	TCP	IETF Network Endpoint Assessment (NEA) Posture Transport Protocol over TLS (PT-TLS).
+280	 	http-mgmt.
+281	 	Personal Link.
+282	 	Cable Port A/X.
+283	 	rescap.
+284	 	corerjd.
+286	 	FXP-1.
+287	 	K-BLOCK 
+308	 	Novastor Backup.
+309	 	EntrustTime.
+310	 	bhmds.
+311	 	AppleShare IP WebAdmin.
+312	 	VSLMP.
+313	 	Magenta Logic.
+314	 	Opalis Robot.
+315	 	DPSI.
+316	 	decAuth.
+317	 	Zannet.
+318	TCP	TSP, Time Stamp Protocol.
+319	 	PTP Event.
+320	 	PTP General.
+321	 	PIP.
+322	 	RTSPS.
+323	 	IMMP, Internet Message Mapping Protocol.	 
+333	 	Texar Security Port.
+344	 	Prospero Data Access Protocol.
+345	 	Performance Analysis Workbench.
+346	 	Zebra server.
+347	 	Fatmen Server.
+348	 	Cabletron Management Protocol.
+349	 	mftp.
+350	TCP	MATIP, Mapping of Airline Traffic over Internet Protocol, Type A.
+351	TCP	MATIP, Mapping of Airline Traffic over Internet Protocol, Type B. bhoetty.
+352	 	DTAG.
+353	 	NDSAUTH.
+354	 	bh611.
+355	 	DATEX-ASN.
+356	 	Cloanto Net 1.
+357	 	bhevent.
+358	 	Shrinkwrap.
+359	 	Tenebris Network Trace Service.
+360	 	scoi2odialog.
+361	 	Semantix.
+362	 	SRS Send.
+363	UDP	RSVP Tunnel.
+364	 	Aurora CMGR.
+365	 	DTK.
+366	TCP	SMTP, Simple Mail Transfer Protocol. ODMR, On-Demand Mail Relay.
+367	 	MortgageWare.
+368	 	QbikGDP.
+369	 	rpc2portmap.
+370	 	codaauth2.
+371	 	Clearcase.
+372	 	ListProcessor.
+373	 	Legent Corporation.
+374	 	Legent Corporation.
+375	 	Hassle.
+376	 	Amiga Envoy Network Inquiry Proto.
+377	 	NEC Corporation.
+378	 	NEC Corporation.
+379	 	TIA/EIA/IS-99 modem client.
+380	 	TIA/EIA/IS-99 modem server.
+381	 	HP performance data collector.
+382	 	HP performance data managed node.
+383	 	HP performance data alarm manager.
+384	 	A Remote Network Server System.
+385	 	IBM Application.
+386	 	ASA Message Router Object Def.
+387	UDP	AURP, AppleTalk Update-based Routing Protocol.
+388	TCP, UDP	Unidata LDM Version 4.
+389	TCP	LDAP, Lightweight Directory Access Protocol.
+390	 	UIS.
+391	 	SynOptics SNMP Relay Port.
+392	 	SynOptics Port Broker Port.
+393	 	Data Interpretation System.
+394	 	EMBL Nucleic Data Transfer.
+395	 	NETscout Control Protocol.
+396	 	Novell Netware over IP.
+397	 	Multi Protocol Trans. Net.
+398	 	Kryptolan.
+399	TCP	TP2 encapsulation.
+400	 	Oracle Secure Backup.
+401	 	Uninterruptible Power Supply.
+402	 	Genie Protocol.
+403	 	decap.
+404	 	nced.
+405	 	ncld.
+406	 	Interactive Mail Support Protocol.
+407	 	Timbuktu.
+408	 	Prospero Resource Manager System Manager.
+409	 	Prospero Resource Manager Node Manager.
+410	 	DEC Ladebug Remote Debug Protocol.
+411	 	Remote MT Protocol.
+412	 	Trap Convention Port.
+413	 	SMSP.
+414	 	InfoSeek.
+415	 	BNet.
+416	 	Silverplatter.
+417	 	Onmux.
+418	 	Hyper-G.
+419	 	Ariel.
+420	 	SMPTE.
+421	 	Ariel.
+422	 	Ariel.
+423	 	IBM Operations Planning and Control Start.
+424	 	IBM Operations Planning and Control Track.
+425	 	ICAD.
+426	 	smartsdp
+427	TCP, UDP	SLP, Service Location Protocol.
+428	 	OCS_CMU.
+429	 	OCS_AMU
+430	 	UTMPSD
+431	 	UTMPCD
+432	 	IASD
+433	 	NNSP
+434	UDP	Mobile IP agent.
+435	 	Mobile IP MN.
+436	 	DNA-CML
+437	 	comscm
+438	 	dsfgw
+439	 	dasp
+440	 	sgcp
+441	 	decvms-sysmgt
+442	 	cvc_hostd
+443	TCP	HTTPS, HTTP over SSL/TLS.
+444	 	SNPP, Simple Network Paging Protocol.
+445	 	Microsoft-DS.
+446	 	DDM-RDB
+447	 	DDM-RFM
+448	 	DDM-SSL
+449	 	AS Server Mapper
+450	 	TServer
+451	 	Cray Network Semaphore server
+452	 	Cray SFS config server
+453	 	CreativeServer
+454	 	ContentServer
+455	 	CreativePartnr
+456	 	macon-tcp
+457	 	scohelp
+458	 	apple quick time
+459	 	ampr-rcmd
+460	 	skronk
+461	 	DataRampSrv
+462	 	DataRampSrvSec
+463	 	alpes
+464	TCP, UDP	Kerberos change/set password.
+465	TCP	URL Rendesvous Directory for SSM.UDP IGMP over UDP for SSM.
+466	 	digital-vrc
+467	 	mylex-mapd
+468	UDP	Photuris.
+469	 	Radio Control Protocol.
+470	 	scx-proxy
+471	 	Mondex.
+472	 	ljk-login.
+473	 	hybrid-pop.
+474	TCP	tn-tl-w1.
+475	 	tcpnethaspsrv.
+476	 	tn-tl-fd1.
+477	 	ss7ns.
+478	 	spsc.
+479	 	iafserver.
+480	 	iafdbase.
+481	 	Ph service.
+482	 	bgs-nsi.
+483	 	ulpnet.
+484	 	Integra Software Management Environment.
+485	 	Air Soft Power Burst.
+486	 	Avian.
+487	 	SAFT, Simple Asynchronous File Transfer.
+488	 	gss-http.
+489	 	nest-protocol.
+490	 	micom-pfs.
+491	 	go-login.
+492	 	Transport Independent Convergence for FNA.
+493	 	Transport Independent Convergence for FNA.
+494	 	POV-Ray.
+495	 	intecourier.
+496	TCP, UDP	PIM-RP-DISC.
+497	TCP, UDP	Retrospect backup and restore service.
+498	 	siam.
+499	 	ISO ILL Protocol.
+500	UDP	ISAKMP. IKE, Internet Key Exchange.
+501	 	STMF.
+502	 	asa-appl-proto.
+503	 	Intrinsa.
+504	 	citadel.
+505	 	mailbox-lm.
+506	 	ohimsrv.
+507	 	crs.
+508	 	xvttp.
+509	 	snare.
+510	 	FirstClass Protocol.
+511	 	mynet-as.
+512	 	rexec, remote process execution. 
+513	TCP	Rlogin. 
+514	UDP	Syslog. cmd like exec but automatic authentication is performed for login server.
+515	TCP	LPR.
+516	 	videotex.
+517	 	Like tenex link but across machine - doesn't use link protocol.
+518	 	ntalk.
+519	 	unixtime.
+520	UDP	RIP, Routing Information Protocol.Extended file name server.
+521	UDP	RIPng.
+522	 	ULP.
+523	 	IBM-DB2.
+524	 	NCP.
+525	 	timeserver.
+526	 	newdate.
+527	TCP, UDP	Stock IXChange.
+528	TCP, UDP	Customer IXChange.
+529	TCP, UDP	IRC-SERV.
+530	 	rpc.
+531	 	chat.
+532	 	readnews.
+533	 	emergency broadcasts.
+534	 	MegaMedia Admin.
+535	 	iiop.
+536	 	opalis-rdv.
+537	 	Networked Media Streaming Protocol.
+538	 	gdomap.
+539	 	Apertus Technologies Load Determination.
+540	 	uucpd.
+541	 	uucp-rlogin.
+542	 	commerce.
+543	 	klogin.
+544	 	krcmd.
+545	 	appleqtcsrvr.
+546	UDP	DHCPv6 client.
+547	UDP	DHCPv6 server.
+548	 	AFP over TCP.
+549	 	IDFP.
+550	 	new-who.
+551	 	cybercash.
+552	 	deviceshare.
+553	 	pirp.
+554	TCP, UDP	RTSP, Real Time Streaming Protocol.
+555	 	dsf.
+556	 	rfs server.
+557	 	openvms-sysipc.
+558	 	SDNSKMP.
+559	 	TEEDTAP.
+560	 	rmonitord.
+561	 	monitor.
+562	 	chcmd.
+563	TCP	NNTP over TLS.
+564	 	plan 9 file service.
+565	 	whoami.
+566	 	streettalk.
+567	 	banyan-rpc.
+568	 	microsoft shuttle.
+569	 	microsoft rome.
+570	 	demon.
+571	 	udemon.
+572	 	sonar.
+573	 	banyan-vip.
+574	 	FTP Software Agent System.
+575	TCP	VEMMI, VErsatile MultiMedia Interface.
+576	 	ipcd.
+577	 	vnas.
+578	 	ipdd.
+579	 	decbsrv.
+580	 	SNTP HEARTBEAT.
+581	UDP	Bundle Discovery Protocol.
+582	 	SCC Security.
+583	 	Philips Video-Conferencing.
+584	 	Key Server.
+586	 	Password Change.
+587	TCP	ESMTP, Extended Simple Mail Transfer Protocol.
+588	 	CAL.
+589	 	EyeLink.
+590	 	TNS CML.
+591	 	FileMaker Inc. - HTTP Alternate (see Port 80).
+592	 	Eudora Set.
+593	 	HTTP RPC Ep Map.
+594	 	TPIP.
+595	 	CAB Protocol.
+596	 	SMSD.
+597	 	PTC Name Service.
+598	 	SCO Web Server Manager 3.
+599	 	Aeolon Core Protocol.
+600	 	Sun IPC server.
+601	TCP	Syslog.
+602	 	XML-RPC over BEEP.
+603	TCP	IDXP, Intrusion Detection Exchange Protocol.
+604	TCP	TUNNEL.
+605	TCP	SOAP over BEEP.
+606	 	Cray Unified Resource Manager.
+607	 	nqs.
+608	TCP	SIFT/UFT, Sender-Initiated/Unsolicited File Transfer.
+609	 	npmp-trap.
+610	 	npmp-local.
+611	 	npmp-gui.
+612	 	HMMP Indication.
+613	 	HMMP Operation.
+614	 	SSLshell.
+615	 	Internet Configuration Manager.
+616	 	SCO System Administration Server.
+617	 	SCO Desktop Administration Server.
+618	 	DEI-ICDA.
+619	 	Digital EVM.
+620	 	SCO WebServer Manager.
+621	 	ESCP.
+622	 	Collaborator.
+623	 	DMTF out-of-band web services management protocol. Aux Bus Shunt. ASF Remote Management and Control Protocol.
+624	 	Crypto Admin.
+625	 	DEC DLM.
+626	 	ASIA.
+627	 	CKS & TIVIOLI.
+628	 	QMQP.
+629	 	3Com AMP3.
+630	 	RDA.
+631	TCP	IPP, Internet Printing Protocol.
+632	 	bmpp.
+633	 	Service Status update (Sterling Software).
+634	 	ginad.
+635	 	RLZ DBase.
+636	 	ldap protocol over TLS/SSL (was sldap).
+637	 	lanserver.
+638	 	mcns-sec.
+639	TCP	MSDP, Multicast Source Discovery Protocol.
+640	 	entrust-sps.
+641	 	repcmd.
+642	UDP	EMSD over ESRO.
+643	 	SANity.
+644	 	dwr.
+645	 	PSSC.
+646	TCP, UDP	LDP, Label Distribution Protocol.
+647	TCP	DHCP Failover Protocol.
+648	TCP	RRP, Registry Registrar Protocol.
+649	 	Aminet.
+650	 	OBEX.
+651	 	IEEE MMS.
+652	UDP	DTCP, Dynamic Tunnel Configuration Protocol.
+653	 	RepCmd.
+654	UDP	AODV, Ad hoc On-Demand Distance Vector.
+655	 	TINC.
+656	 	SPMP.
+657	 	RMC.
+658	 	TenFold.
+659	 	URL Rendezvous.
+660	 	MacOS Server Admin.
+661	 	HAP.
+662	 	PFTP.
+663	 	PureNoise.
+664	 	DMTF out-of-band secure web services management protocol. ASF Secure Remote Management and Control Protocol. Secure Aux Bus.
+665	 	Sun DR.
+666	 	Doom, Id Software.
+667	 	Campaign contribution campaign contribution disclosures - SDR Technologies.
+668	 	MeComm.
+669	 	MeRegister.
+670	 	VACDSM-SWS.
+671	 	VACDSM-APP.
+672	 	VPPS-QUA.
+673	 	CIMPLEX.
+674	TCP	ACAP, Application Configuration Access Protocol.
+675	 	DCTP.
+676	 	VPPS Via.
+677	 	Virtual Presence Protocol.
+678	 	GNU Gereration Foundation NCP.
+679	 	MRM.
+680	 	entrust-aaas.
+681	 	entrust-aaas.
+682	 	XFR.
+683	 	CORBA IIOP.
+684	 	CORBA IIOP SSL.
+685	 	MDC Port Mapper.
+686	 	Hardware Control Protocol Wismar.
+687	 	asipregistry.
+688	 	REALM-RUSD.
+689	 	NMAP.
+690	 	VATP.
+691	 	MS Exchange Routing.
+692	 	Hyperwave-ISP.
+693	 	connendp.
+694	 	ha-cluster.
+695	 	IEEE-MMS-SSL.
+696	 	RUSHD.
+697	 	UUIDGEN.
+698	UDP	OLSR, Optimized Link State Routing.
+699	 	Access Network.
+700	TCP	EPP, Extensible Provisioning Protocol.
+701	UDP	LMP, Link Management Protocol.
+702	TCP	IRIS over BEEP.
+704	 	errlog copy/server daemon.
+705	TCP	AgentX.
+706	TCP, UDP	SILC, Secure Internet Live Conferencing.
+707	 	Borland DSJ.
+709	 	Entrust Key Management Service Handler.
+710	 	Entrust Administration Service Handler.
+711	 	TDP, Tag Distribution Protocol.
+712	UDP	TBRPF, Topology Broadcast based on Reverse-Path Forwarding.
+713	TCP	IRIS over XPC.
+714	TCP	IRIS over XPCS (RFC 4992).
+715	 	IRIS-LWZ (RFC 4993).
+716	 	PANA, Protocol for Carrying Authentication for Network Access.	 
+720	 	DVMP, Distance Vectored Monitoring Protocol.  SMQP, Simple Message Queue Protocol.
+721	 	XSRP, eXtensible Service Registration Protocol.
+723	 	XSTP, eXtensible Service Transfer Protocol.
+725	 	XSSP, eXtensible Service Subscription Protocol.
+727	 	XSLP, eXtensible Service Location Protocol.
+729	 	IBM NetView DM/6000 Server/Client.
+730	 	IBM NetView DM/6000 send TCP.
+731	 	IBM NetView DM/6000 receive TCP.	 
+741	 	netGW.
+742	 	Network based Rev. Cont. Sys.
+744	 	Flexible License Manager.	 
+747	 	Fujitsu Device Control.
+748	 	Russell Info Sci Calendar Manager.
+749	 	kerberos administration.
+750	 	kerberos version iv.
+751	 	pump.
+752	 	qrh.
+753	 	rrh.
+754	 	send
+758	 	nlogin.
+759	 	con.
+760	 	ns.
+761	 	rxe.
+762	 	quotad.
+763	 	cycleserv.
+764	 	omserv.
+765	 	webster.
+767	 	phone.
+769	 	vid.
+770	 	cadlock.
+771	 	rtip.
+772	 	cycleserv2.
+773	 	submit.
+774	 	rpasswd. acmaint_dbd.
+775	 	entomb. acmaint_transd.
+776	 	wpages.
+777	 	Multiling HTTP.
+780	 	wpgs.
+800	 	mdbs_daemon.
+801	 	device.	 
+810	 	FCP.
+828	 	itm-mcell-s.
+829	 	CMP, Certificate Management Protocols.
+830	 	NETCONF over SSH.
+831	 	NETCONF over BEEP.
+832	 	NETCONF for SOAP over HTTP.
+833	 	NETCONF for SOAP over BEEP.	 
+847	 	dhcp-failover 2.
+848	UDP	GDOI, Group Domain of Interpretation.	 
+860	TCP	iSCSI.
+861	 	OWAMP, One-way Active Measurement Protocol.
+862	TCP, UDP	TWAMP, Two-Way Active Measurement Protocol.	 
+873	TCP	rsync.	 
+886	 	ICL coNETion locate server.
+887	 	ICL coNETion server info.
+888	 	AccessBuilder. CD Database Protocol.
+900	 	OMG Initial Refs.
+901	 	SMPNAMERES.
+902	 	IDEAFARM-CHAT.
+903	 	IDEAFARM-CATCH.	 
+910	 	KINK, Kerberized Internet Negotiation of Keys.
+911	 	xact-backup.
+912	 	APEX relay-relay service.
+913	 	APEX endpoint-relay service.
+989	 	FTP data over TLS/SSL.
+990	 	FTP control over TLS/SSL.
+991	 	NAS, Netnews Administration System.
+992	 	telnet over TLS/SSL.
+993	 	imap4 over TLS/SSL.
+995	 	pop3 over TLS/SSL (was spop3).
+996	 	vsinet.
+997	 	maitrd.
+998	 	busboy. puparp.
+999	 	Applix ac. garcon. puprouter.
+1000	 	cadlock2.
+1008	 	Sun Solaris?
+1010	 	surf.
+1021	 	RFC 3692-style Experiment 1.
+1022	 	RFC 3692-style Experiment 2.
+1023	 	reserved.
+1025	 	network blackjack.	 
+1026	TCP, UDP	CAP, Calendar Access Protocol.	 
+1027	UDP	IPv6 Behind NAT44 CPEs.	 
+1029	TCP, UDP	Solid Mux Server.
+1032	 	BBN IAD.	 
+1033	 	local netinfo port.	 
+1034	 	ActiveSync Notifications.	 
+1035	 	MX-XR RPC.	 
+1036	 	Nebula Secure Segment Transfer Protocol.	 
+1037	 	AMS.	 
+1038	 	MTQP, Message Tracking Query Protocol.	 
+1039	 	Streamlined Blackhole.	 
+1040	 	Netarx Netcare.	 
+1041	 	AK2 Product.	 
+1042	 	Subnet Roaming.	 
+1043	 	BOINC Client Control.	 
+1044	 	Dev Consortium Utility.	 
+1045	 	Fingerprint Image Transfer Protocol.	 
+1046	 	WebFilter Remote Monitor.	 
+1048	 	Sun's NEO Object Request Broker.	 
+1049	 	Tobit David Postman VPMN.	 
+1050	 	CORBA Management Agent.	 
+1051	 	Optima VNET.	 
+1052	 	Dynamic DNS Tools.	 
+1053	 	Remote Assistant (RA).	 
+1054	 	BRVREAD.	 
+1055	 	ANSYS - License Manager.	 
+1056	 	VFO.	 
+1057	 	STARTRON.	 
+1058	 	nim.	 
+1059	 	nimreg.	 
+1060	 	POLESTAR.	 
+1061	 	KIOSK.	 
+1062	 	Veracity.	 
+1063	 	KyoceraNetDev.	 
+1064	 	JSTEL.	 
+1065	 	SYSCOMLAN.	 
+1066	 	FPO-FNS.	 
+1067	 	Installation Bootstrap Protocol Server.	 
+1068	 	Installation Bootstrap Protocol Client.	 
+1069	 	COGNEX-INSIGHT. Train Server (unregistered).
+1070	 	GMRUpdateSERV.	 
+1071	 	BSQUARE-VOIP.	 
+1072	 	CARDAX.	 
+1073	 	BridgeControl.	 
+1074	 	FASTechnologies License Manager.	 
+1075	 	RDRMSHC.	 
+1076	 	DAB STI-C.	 
+1077	 	IMGames.	 
+1078	 	eManageCstp.	 
+1079	 	ASPROVATalk.	 
+1080	 	SOCKS.	 
+1081	 	PVUNIWIEN.	 
+1082	 	AMT-ESD-PROT.	 
+1084	 	Anasoft License Manager.	 
+1085	 	Web Objects.	 
+1086	 	CPL Scrambler Logging.	 
+1087	 	CPL Scrambler Internal.	 
+1088	 	CPL Scrambler Alarm Log.	 
+1089	 	FF Annunciation.	 
+1090	 	FF Fieldbus Message Specification.	 
+1091	 	FF System Management.	 
+1092	 	OBRPD.	 
+1093	 	PROOFD.	 
+1094	 	ROOTD.	 
+1095	 	NICELink.	 
+1096	 	CNRP, Common Name Resolution Protocol.	 
+1097	 	Sun Cluster Manager.	 
+1098	 	RMI Activation.	 
+1099	 	RMI Registry.	 
+1100	 	MCTP.
+1101	 	PT2-DISCOVER.
+1102	 	ADOBE SERVER 1.
+1103	 	ADOBE SERVER 2.
+1104	 	XRL.
+1105	 	FTRANHC.
+1106	 	ISOIPSIGPORT-1.
+1107	 	ISOIPSIGPORT-2.
+1108	 	ratio-adp.
+1110	 	Cluster status info.
+1111	 	LM Social Server.
+1112	 	Intelligent Communication Protocol.
+1113	 	LTP, Licklider Transmission Protocol.
+1114	 	Mini SQL.
+1115	 	ARDUS Transfer.
+1116	 	ARDUS Control.
+1117	 	ARDUS Multicast Transfer.
+1118	 	SACRED, Securely Available Credentials.
+1119	 	Battle.net Chat/Game Protocol.
+1120	 	Battle.net File Transfer Protocol.
+1121	 	Datalode RMPP.
+1122	 	availant-mgr.
+1123	 	Murray.
+1124	 	HP VMM Control.
+1125	 	HP VMM Agent.
+1126	 	HP VMM Data.
+1127	 	KWDB Remote Communication.
+1128	 	SAPHostControl over SOAP/HTTP.
+1129	 	SAPHostControl over SOAP/HTTPS.
+1130	 	CAC App Service Protocol.
+1131	 	CAC App Service Protocol Encripted.
+1132	 	KVM-via-IP Management Service.
+1133	 	Data Flow Network.
+1134	 	MicroAPL APLX.
+1135	 	OmniVision Communication Service.
+1136	 	HHB Gateway Control.
+1137	 	TRIM Workgroup Service.
+1138	 	encrypted admin requests.
+1139	 	Enterprise Virtual Manager.
+1140	 	AutoNOC Network Operations Protocol.
+1141	 	User Message Service.
+1142	 	User Discovery Service.
+1143	 	Infomatryx Exchange.
+1144	 	Fusion Script.
+1145	 	X9 iCue Show Control.
+1146	 	audit transfer.
+1147	 	CAPIoverLAN.
+1148	TCP, UDP	Elfiq Replication Service.
+1149	TCP, UDP	BlueView Sonar Service.
+1150	TCP, UDP	Blaze File Server.
+1151	 	Unizensus Login Server.
+1152	 	Winpopup LAN Messenger.
+1153	 	ANSI C12.22 Port.
+1154	 	Community Service.
+1155	 	Network File Access.
+1156	 	iasControl OMS.
+1157	 	Oracle iASControl.
+1158	 	dbControl OMS.
+1159	 	Oracle OMS.
+1160	 	DB Lite Mult-User Server.
+1161	 	Health Polling.
+1162	 	Health Trap.
+1163	 	SmartDialer Data Protocol.
+1164	 	QSM Proxy Service.
+1165	 	QSM GUI Service.
+1166	 	QSM RemoteExec.
+1167	UDP	CSLAP, Cisco Service Level Assurance Protocol.
+1168	 	VChat Conference Service.
+1169	 	TRIPWIRE.
+1170	 	AT+C License Manager.
+1171	 	AT+C FmiApplicationServer.
+1172	 	DNA Protocol.
+1173	 	D-Cinema Request-Response.
+1174	 	FlashNet Remote Admin.
+1175	 	Dossier Server.
+1176	 	Indigo Home Server.
+1177	 	DKMessenger Protocol.
+1178	 	SGI Storage Manager.
+1179	 	Backup To Neighbor.
+1180	 	Millicent Client Proxy.
+1181	 	3Com Net Management.
+1182	 	AcceleNet Control
+1183	 	LL Surfup HTTP.
+1184	 	LL Surfup HTTPS.
+1185	 	Catchpole.
+1186	 	MySQL Cluster Manager.
+1187	 	Alias Service
+1188	 	HP Web Admin.
+1189	 	Unet Connection.
+1190	 	CommLinx GPS / AVL System.
+1191	 	General Parallel File System.
+1192	 	caids sensors channel.
+1193	 	Five Across Server.
+1194	 	OpenVPN.
+1195	 	RSF-1 clustering.
+1196	 	Network Magic.
+1197	 	Carrius Remote Access.
+1198	 	cajo reference discovery.
+1199	 	DMIDI.
+1200	 	SCOL.
+1201	 	Nucleus Sand.
+1202	 	caiccipc.
+1203	 	License Validation.
+1204	 	Log Request Listener.
+1205	 	Accord-MGC.
+1206	 	Anthony Data.
+1207	 	MetaSage.
+1208	 	SEAGULL AIS.
+1209	 	IPCD3.
+1210	 	EOSS.
+1211	 	Groove DPP.
+1212	 	lupa.
+1213	 	MPC LIFENET.
+1214	 	KAZAA.
+1215	 	scanSTAT 1.0.
+1216	 	ETEBAC 5.
+1217	 	HPSS-NDAPI.
+1218	 	AeroFlight-ADs.
+1219	 	AeroFlight-Ret.
+1220	 	QT SERVER ADMIN.
+1221	 	SweetWARE Apps.
+1222	 	SNI R&D network
+1223	 	TGP, TrulyGlobal Protocol.
+1224	 	VPNz.
+1225	 	SLINKYSEARCH.
+1226	 	STGXFWS.
+1227	 	DNS2Go.
+1228	 	FLORENCE.
+1229	 	Novell ZFS.
+1230	 	Periscope.
+1231	TCP, UDP	menandmice-lpm.
+1232	TCP, UDP	Remote systems monitoring.
+1233	TCP, UDP	Universal App Server.
+1234	 	Infoseek Search Agent.
+1235	 	mosaicsyssvc1.
+1236	 	bvcontrol.
+1237	 	tsdos390.
+1238	 	hacl-qs.
+1239	 	NMSD.
+1240	 	hacl-qs.
+1241	 	nessus.
+1242	 	NMAS over IP.
+1243	 	SerialGateway.
+1244	 	isbconference1.
+1245	 	isbconference2.
+1246	 	payrouter.
+1247	 	VisionPyramid.
+1248	 	hermes.
+1249	 	Mesa Vista Co.
+1250	 	swldy-sias.
+1251	 	servergraph.
+1252	 	bspne-pcc.
+1253	 	q55-pcc.
+1254	 	de-noc.
+1255	 	de-cache-query.
+1256	 	de-server.
+1257	 	Shockwave 2.
+1258	 	Open Network Library.
+1259	 	Open Network Library Voice.
+1260	 	ibm-ssd.
+1261	 	mpshrsv.
+1262	 	QNTS-ORB.
+1263	 	dka.
+1264	 	PRAT.
+1265	 	DSSIAPI.
+1266	 	DELLPWRAPPKS.
+1267	 	pcmlinux.
+1268	 	PROPEL-MSGSYS.
+1269	 	WATiLaPP.
+1270	 	opsman.
+1271	 	Dabew.
+1272	 	CSPMLockMgr.
+1273	 	EMC-Gateway.
+1274	 	t1distproc.
+1275	 	ivcollector.
+1276	 	ivmanager.
+1277	 	mqs.
+1278	 	Dell Web Admin 1.
+1279	 	Dell Web Admin 2.
+1280	 	Pictrography.
+1281	 	healthd.
+1282	 	Emperion.
+1283	 	ProductInfo.
+1284	 	IEE-QFX.
+1285	 	neoiface.
+1286	 	netuitive.
+1287	 	RouteMatch Com.
+1288	 	NavBuddy.
+1289	 	JWalkServer.
+1290	 	WinJaServer.
+1291	 	SEAGULLLMS.
+1292	 	dsdn.
+1293	 	PKT-KRB-IPSec.
+1294	 	CMMdriver.
+1295	 	EHTP, End-by-Hop Transmission Protocol.
+1296	 	dproxy.
+1297	 	sdproxy.
+1298	 	lpcp.
+1299	 	hp-sci.
+1300	 	H323 Host Call Secure.
+1301	 	CI3-Software-1.
+1302	 	CI3-Software-2.
+1303	 	sftsrv.
+1304	 	Boomerang.
+1305	 	pe-mike.
+1306	 	RE-Conn-Proto.
+1307	 	Pacmand.
+1308	 	ODSI, Optical Domain Service Interconnect.
+1309	 	JTAG server.
+1310	 	Husky.
+1311	 	RxMon.
+1312	 	STI Envision.
+1313	 	BMC_PATROLDB.
+1314	 	Photoscript Distributed Printing System.
+1315	 	els.
+1316	 	Exbit-ESCP.
+1317	 	vrts-ipcserver.
+1318	 	krb5gatekeeper.
+1319	 	Panja-ICSP.
+1320	 	Panja-AXBNET.
+1321	 	PIP.
+1322	 	Novation.
+1323	 	brcd.
+1324	 	delta-mcp.
+1325	 	DX-Instrument.
+1326	 	WIMSIC.
+1327	 	Ultrex.
+1328	 	EWALL.
+1329	 	netdb-export.
+1330	 	StreetPerfect.
+1331	 	intersan.
+1332	 	PCIA RXP-B.
+1333	 	Password Policy.
+1334	 	writesrv.
+1335	 	Digital Notary Protocol.
+1336	 	Instant Service Chat.
+1337	 	menandmice DNS.
+1338	 	WMC-log-svr.
+1339	 	kjtsiteserver.
+1340	 	NAAP.
+1341	 	QuBES.
+1342	 	ESBroker.
+1343	 	re101.
+1344	 	ICAP, Internet Content Adaptation Protocol.
+1345	 	VPJP.
+1346	 	Alta Analytics License Manager.
+1348	 	multi media conferencing.
+1350	 	Registration Network Protocol.
+1351	 	Digital Tool Works (MIT).
+1352	 	Lotus Note.
+1353	 	Relief Consulting.
+1354	 	RightBrain Software.
+1355	 	Intuitive Edge.
+1356	 	CuillaMartin Company.
+1357	 	Electronic PegBoard.
+1358	 	CONNLCLI.
+1359	 	FTSRV.
+1360	 	MIMER.
+1361	 	LinX.
+1362	 	TimeFlies.
+1363	 	Network DataMover Requester.
+1364	 	Network DataMover Server.
+1365	 	Network Software Associates.
+1366	 	Novell NetWare Comm Service Platform.
+1367	 	DCS.
+1368	 	ScreenCast.
+1369	 	GlobalView to Unix Shell.
+1370	 	Unix Shell to GlobalView.
+1372	 	Fujitsu Config Protocol.
+1373	 	Chromagrafx.
+1374	 	EPI Software Systems.
+1375	 	Bytex.
+1376	 	IBM Person to Person Software.
+1377	 	Cichlid License Manager.
+1378	 	Elan License Manager.
+1379	 	Integrity Solutions.
+1380	 	Telesis Network License Manager.
+1381	 	Apple Network License Manager.
+1383	 	GW Hannaway Network License Manager.
+1384	 	Objective Solutions License Manager.
+1385	 	Atex Publishing License Manager.
+1386	 	CheckSum License Manager.
+1387	 	Computer Aided Design Software Inc LM.
+1388	 	Objective Solutions DataBase Cache.
+1389	 	Document Manager.
+1390	 	Storage Controller.
+1391	 	Storage Access Server.
+1392	 	Print Manager.
+1393	 	Network Log Server.
+1394	 	Network Log Client.
+1395	 	PC Workstation Manager software.
+1396	 	DVL Active Mail.
+1397	 	Audio Active Mail.
+1398	 	Video Active Mail.
+1399	 	Cadkey License Manager.
+1400	 	Cadkey Tablet Daemon.
+1401	 	Goldleaf License Manager.
+1403	 	Prospero Resource Manager.
+1404	 	Infinite Graphics License Manager.
+1405	 	IBM Remote Execution Starter.
+1406	 	NetLabs License Manager.
+1407	 	DBSA License Manager.
+1408	 	Sophia License Manager.
+1409	 	Here License Manager.
+1410	 	HiQ License Manager.
+1411	 	AudioFile.
+1412	 	InnoSys.
+1413	 	Innosys-ACL.
+1414	 	IBM MQSeries.
+1415	 	DBStar.
+1416	 	Novell LU6.2.
+1417	 	Timbuktu Service 1 Port.
+1418	 	Timbuktu Service 2 Port.
+1419	 	Timbuktu Service 3 Port.
+1420	 	Timbuktu Service 4 Port.
+1421	 	Gandalf License Manager.
+1422	 	Autodesk License Manager.
+1423	 	Essbase Arbor Software.
+1424	 	Hybrid Encryption Protocol.
+1425	 	Zion Software License Manager.
+1426	 	Satellite-data Acquisition System 1.
+1427	 	mloadd monitoring tool.
+1428	 	Informatik License Manager.
+1429	 	Hypercom NMS.
+1430	 	Hypercom TPDU.
+1431	 	Reverse Gossip Transport.
+1432	 	Blueberry Software License Manager.
+1433	 	Microsoft-SQL-Server.
+1434	 	Microsoft-SQL-Monitor.
+1435	 	IBM CICS.
+1436	 	Satellite-data Acquisition System 2.
+1437	 	Tabula.
+1438	 	Eicon Security Agent/Server.
+1439	 	Eicon X25/SNA Gateway.
+1440	 	Eicon Service Location Protocol.
+1441	 	Cadis License Management.
+1442	 	Cadis License Management.
+1443	 	Integrated Engineering Software.
+1444	 	Marcam License Management.
+1445	 	Proxima License Manager.
+1446	 	Optical Research Associates License Manager.
+1447	 	Applied Parallel Research LM.
+1448	 	OpenConnect License Manager.
+1449	 	PEport.
+1450	 	Tandem Distributed Workbench Facility.
+1451	 	IBM Information Management.
+1452	 	GTE Government Systems License Man.
+1453	 	Genie License Manager.
+1454	 	interHDL License Manager.
+1455	 	ESL License Manager.
+1456	 	DCA.
+1457	 	Valisys License Manager.
+1458	 	Nichols Research Corp.
+1460	 	Proshare Notebook Application.
+1461	 	IBM Wireless LAN.
+1462	 	World License Manager.
+1463	 	Nucleus.
+1464	 	MSL License Manager.
+1465	 	Pipes Platform.
+1466	 	Ocean Software License Manager.
+1467	 	CSDMBASE.
+1468	 	CSDM.
+1469	 	Active Analysis Limited License Manager.
+1470	 	Universal Analytics.
+1471	 	csdmbase.
+1472	 	csdm.
+1473	 	OpenMath.
+1474	 	Telefinder.
+1475	 	Taligent License Manager.
+1476	 	clvm-cfg.
+1477	 	ms-sna-server.
+1478	 	ms-sna-base.
+1479	 	dberegister.
+1480	 	PacerForum.
+1481	 	AIRS.
+1482	 	Miteksys License Manager.
+1483	 	AFS License Manager.
+1484	 	Confluent License Manager.
+1485	 	LANSource.
+1486	 	nms_topo_serv.
+1487	 	LocalInfoSrvr.
+1488	 	DocStor.
+1489	 	dmdocbroker.
+1490	 	insitu-conf.
+1491	 	anynetgateway.
+1492	 	stone-design-1.
+1493	 	netmap_lm.
+1494	 	ICA, Citrix Independent Computing Architecture.
+1495	 	cvc.
+1496	 	liberty-lm.
+1497	 	rfx-lm.
+1498	 	Sybase SQL Any.
+1499	 	Federico Heinz Consultora.
+1500	 	VLSI License Manager.
+1501	 	Satellite-data Acquisition System 3.
+1502	 	Shiva.
+1503	 	Databeam.
+1504	 	EVB Software Engineering License Manager.
+1505	 	Funk Software Inc.
+1506	 	Universal Time daemon (utcd).
+1507	 	symplex.
+1508	 	diagmond.
+1509	 	Robcad Ltd. License Manager.
+1510	 	Midland Valley Exploration Ltd. Lic. Man.
+1511	 	3l-l1.
+1512	 	WINS, Windows Internet Name Service.
+1514	 	Fujitsu Systems Business of America Inc.
+1515	 	ifor-protocol.
+1516	 	Virtual Places Audio data.
+1517	 	Virtual Places Audio control.
+1518	 	Virtual Places Video data.
+1519	 	Virtual Places Video control.
+1520	 	atm zip office.
+1521	 	nCube License Manager.
+1522	 	Ricardo North America License Manager.
+1523	 	cichild.
+1524	 	ingres.
+1525	 	oracle. Prospero.
+1526	 	Prospero Data Access Prot non-priv.
+1527	 	oracle.
+1528	 	micautoreg.
+1529	 	oracle.
+1530	 	rap-service.
+1531	 	rap-listen.
+1532	 	miroconnect.
+1533	 	Virtual Places Software.
+1534	 	micromuse-lm.
+1535	 	ampr-info.
+1536	 	ampr-inter.
+1537	 	isi-lm.
+1538	 	3ds-lm.
+1539	 	Intellistor License Manager.
+1540	 	rds.
+1541	 	rds2.
+1542	 	gridgen-elmd.
+1543	 	simba-cs.
+1544	 	aspeclmd.
+1545	 	vistium-share.
+1546	 	abbaccuray.
+1547	 	laplink.
+1548	 	Axon License Manager.
+1549	 	Shiva Hose TCP. Shiva Sound UDP.
+1550	 	Image Storage license manager 3M Company.
+1551	 	HECMTL-DB.
+1552	 	pciarray.
+1553	 	sna-cs.
+1554	 	CACI Products Company License Manager.
+1555	 	livelan.
+1556	 	VERITAS Private Branch Exchange.
+1557	 	ArborText License Manager.
+1558	 	xingmpeg.
+1559	 	web2host.
+1560	 	asci-val.
+1561	 	facilityview.
+1562	 	pconnectmgr.
+1563	 	Cadabra License Manager.
+1564	 	Pay-Per-View.
+1565	 	WinDD.
+1566	 	CORELVIDEO.
+1567	 	jlicelmd.
+1568	 	tsspmap.
+1569	 	ets.
+1570	 	orbixd.
+1571	 	Oracle Remote Data Base.
+1572	 	Chipcom License Manager.
+1573	 	itscomm-ns.
+1574	 	mvel-lm.
+1575	 	oraclenames.
+1576	 	moldflow-lm.
+1577	 	hypercube-lm.
+1578	 	Jacobus License Manager.
+1579	 	ioc-sea-lm.
+1580	TCP	tn-tl-r1.
+1581	 	MIL-2045-47001.
+1582	 	MSIMS.
+1583	 	simbaexpress.
+1584	 	tn-tl-fd2.
+1585	 	intv.
+1586	 	ibm-abtact.
+1587	 	pra_elmd.
+1588	 	triquest-lm.
+1589	 	VQP.
+1590	 	gemini-lm.
+1591	 	ncpm-pm.
+1592	 	commonspace.
+1593	 	mainsoft-lm.
+1594	 	sixtrak.
+1595	 	radio.
+1596	TCP	radio-sm.UDP radio-bc.
+1597	 	orbplus-iiop.
+1598	 	picknfs.
+1599	 	simbaservices.
+1600	 	issd.
+1601	 	aas.
+1602	 	inspect.
+1603	 	pickodbc.
+1604	 	icabrowser.
+1605	 	Salutation Manager (Salutation Protocol).
+1606	 	Salutation Manager (SLM-API).
+1607	 	stt.
+1608	 	Smart Corp. License Manager.
+1609	 	isysg-lm.
+1610	 	taurus-wh.
+1611	 	Inter Library Loan.
+1612	 	NetBill Transaction Server.
+1613	 	NetBill Key Repository.
+1614	 	NetBill Credential Server.
+1615	 	NetBill Authorization Server.
+1616	 	NetBill Product Server.
+1617	 	Nimrod Inter-Agent Communication.
+1618	 	skytelnet.
+1619	 	xs-openstorage.
+1620	 	faxportwinport.
+1621	 	softdataphone.
+1622	 	ontime.
+1623	 	jaleosnd.
+1624	 	udp-sr-port.
+1625	 	svs-omagent.
+1626	 	Shockwave.
+1627	 	T.128 Gateway.
+1628	 	LonTalk normal.
+1629	 	LonTalk urgent.
+1630	 	Oracle Net8 Cman.
+1631	 	Visit view.
+1632	 	PAMMRATC.
+1633	 	PAMMRPC.
+1634	 	Log On America Probe.
+1635	 	EDB Server 1.
+1636	 	CableNet Control Protocol.
+1637	 	CableNet Admin Protocol.
+1638	 	CableNet Info Protocol.
+1639	 	cert-initiator.
+1640	 	cert-responder.
+1641	 	InVision.
+1642	 	isis-am.
+1643	 	isis-ambc.
+1644	 	Satellite-data Acquisition System 4.
+1645	 	datametrics.
+1646	 	sa-msg-port.
+1647	 	rsap.
+1648	 	concurrent-lm.
+1649	 	Kermit.
+1650	 	nkd.
+1651	 	shiva_confsrvr.
+1652	 	xnmp.
+1653	 	alphatech-lm.
+1654	 	stargatealerts.
+1655	 	dec-mbadmin.
+1656	 	dec-mbadmin-h.
+1657	 	fujitsu-mmpdc.
+1658	 	sixnetudr.
+1659	 	Silicon Grail License Manager.
+1660	 	skip-mc-gikreq.
+1661	 	netview-aix-1.
+1662	 	netview-aix-2.
+1663	 	netview-aix-3.
+1664	 	netview-aix-4.
+1665	 	netview-aix-5.
+1666	 	netview-aix-6.
+1667	 	netview-aix-7.
+1668	 	netview-aix-8.
+1669	 	netview-aix-9.
+1670	 	netview-aix-10.
+1671	 	netview-aix-11.
+1672	 	netview-aix-12.
+1674	 	Intel Proshare Multicast.
+1675	 	Pacific Data Products.
+1676	 	netcomm1 (TCP). netcomm2 (UDP).
+1677	 	groupwise.
+1678	 	prolink.
+1679	 	darcorp-lm.
+1680	 	microcom-sbp.
+1681	 	sd-elmd.
+1682	 	lanyon-lantern.
+1683	 	ncpm-hip.
+1684	 	SnareSecure.
+1685	 	n2nremote.
+1686	 	cvmon.
+1687	 	nsjtp-ctrl.
+1688	 	nsjtp-data.
+1689	 	firefox.
+1690	 	ng-umds.
+1691	 	empire-empuma.
+1692	 	sstsys-lm.
+1693	 	rrirtr.
+1694	 	rrimwm.
+1695	 	rrilwm.
+1696	 	rrifmm.
+1697	 	rrisat.
+1699	 	RSVP, Resource ReSerVation Protocol encapsulation.
+1700	 	mps-raft.
+1701	 	L2F, Layer 2 Forwarding. L2TP, Level 2 Tunneling Protocol.
+1702	 	deskshare.
+1703	 	hb-engine.
+1704	 	bcs-broker.
+1705	 	slingshot.
+1706	 	jetform.
+1707	 	vdmplay.
+1708	 	gat-lmd.
+1709	 	centra.
+1710	 	impera.
+1711	 	pptconference.
+1712	 	resource monitoring service.
+1713	 	ConferenceTalk.
+1714	 	sesi-lm.
+1715	 	houdini-lm.
+1716	 	xmsg.
+1717	 	fj-hdnet.
+1718	 	h323gatedisc.
+1719	 	h323gatestat.
+1720	 	h323hostcall.
+1721	 	caicci.
+1722	 	HKS License Manager.
+1723	 	PPTP, Point to Point Tunneling Protocol.
+1724	 	csbphonemaster.
+1725	 	iden-ralp.
+1726	 	IBERIAGAMES.
+1727	 	winddx.
+1728	 	TELINDUS.
+1729	 	CityNL License Management.
+1730	 	roketz.
+1731	 	MSICCP.
+1732	 	proxim.
+1733	 	SIMS - SIIPAT Protocol for Alarm Transmission.
+1734	 	Camber Corporation License Management.
+1735	 	PrivateChat.
+1736	 	street-stream.
+1737	 	ultimad.
+1738	 	GameGen1.
+1739	 	webaccess.
+1740	 	encore.
+1741	 	cisco-net-mgmt.
+1742	 	3Com-nsd.
+1743	 	Cinema Graphics License Manager.
+1744	 	ncpm-ft.
+1745	 	remote-winsock.
+1746	 	ftrapid-1.
+1747	 	ftrapid-2.
+1748	 	oracle-em1.
+1749	 	aspen-services.
+1750	 	Simple Socket Library's PortMaster.
+1751	 	SwiftNet.
+1752	TCP, UDP	Leap of Faith Research License Manager.
+1753	TCP	Predatar Comms Service.
+1754	TCP, UDP	oracle-em2.
+1755	 	ms-streaming.
+1756	 	capfast-lmd.
+1757	 	cnhrp.
+1758	 	TFTP, Trivial File Transfer Protocol (multicast).
+1759	 	SPSS License Manager.
+1760	 	www-ldap-gw.
+1761	 	cft-0.
+1762	 	cft-1.
+1763	 	cft-2.
+1764	 	cft-3.
+1765	 	cft-4.
+1766	 	cft-5.
+1767	 	cft-6.
+1768	 	cft-7.
+1769	 	bmc-net-adm.
+1770	 	bmc-net-svc.
+1771	 	vaultbase.
+1772	 	EssWeb Gateway.
+1773	 	KMSControl.
+1774	 	global-dtserv.
+1776	 	Federal Emergency Management Information System.
+1777	 	powerguardian.
+1778	 	prodigy-internet.
+1779	 	pharmasoft.
+1780	 	dpkeyserv.
+1781	 	answersoft-lm.
+1782	 	hp-hcip.
+1783	 	Fujitsu Remote Install Service.
+1784	 	Finle License Manager.
+1785	 	Wind River Systems License Manager.
+1786	 	funk-logger.
+1787	 	funk-license.
+1788	 	psmond.
+1789	 	hello.
+1790	 	Narrative Media Streaming Protocol.
+1791	 	EA1.
+1792	 	ibm-dt-2.
+1793	 	rsc-robot.
+1794	 	cera-bcm.
+1795	 	dpi-proxy.
+1796	 	Vocaltec Server Administration.
+1797	 	UMA.
+1798	 	Event Transfer Protocol.
+1799	 	NETRISK.
+1800	 	ANSYS-License manager.
+1801	 	Microsoft Message Que.
+1802	 	ConComp1.
+1803	 	HP-HCIP-GWY.
+1804	 	ENL.
+1805	 	ENL-Name.
+1806	 	Musiconline.
+1807	 	Fujitsu Hot Standby Protocol.
+1808	 	Oracle-VP2.
+1809	 	Oracle-VP1.
+1810	 	Jerand License Manager.
+1811	 	Scientia-SDB.
+1812	UDP	RADIUS, Remote Authentication Dial-In User Service.
+1813	UDP	RADIUS Accounting.
+1814	 	TDP Suite.
+1815	 	MMPFT.
+1816	 	HARP.
+1817	 	RKB-OSCS.
+1818	 	ETFTP, Enhanced Trivial File Transfer Protocol.
+1819	 	Plato License Manager.
+1820	 	mcagent.
+1821	 	donnyworld.
+1822	 	es-elmd.
+1823	 	Unisys Natural Language License Manager.
+1824	 	metrics-pas.
+1825	 	DirecPC Video.
+1826	 	ARDT.
+1827	 	ASI.
+1828	 	itm-mcell-u.
+1829	 	Optika eMedia.
+1830	 	Oracle Net8 CMan Admin.
+1831	 	Myrtle.
+1832	 	ThoughtTreasure.
+1833	 	udpradio.
+1834	 	ARDUS Unicast.
+1835	 	ARDUS Multicast.
+1836	 	ste-smsc.
+1837	 	csoft1.
+1838	 	TALNET.
+1839	 	netopia-vo1.
+1840	 	netopia-vo2.
+1841	 	netopia-vo3.
+1842	 	netopia-vo4.
+1843	 	netopia-vo5.
+1844	 	DirecPC-DLL.
+1845	 	altalink.
+1846	 	Tunstall PNC.
+1847	 	SLP Notification.
+1848	 	fjdocdist.
+1849	 	ALPHA-SMS.
+1850	 	GSI.
+1851	 	ctcd.
+1852	 	Virtual Time.
+1853	 	VIDS-AVTP.
+1854	 	Buddy Draw.
+1855	 	Fiorano RtrSvc.
+1856	 	Fiorano MsgSvc.
+1857	 	DataCaptor.
+1858	 	PrivateArk.
+1859	 	Gamma Fetcher Server.
+1860	 	Sun SCALAR Services.
+1861	 	LeCroy VICP.
+1862	 	techra-server. MySQL Cluster Manager Agent.
+1863	 	MSNP.
+1864	 	Paradym 31 Port.
+1865	 	ENTP.
+1866	 	swrmi.
+1867	 	UDRIVE.
+1868	 	VizibleBrowser.
+1869	 	YesTrader.
+1870	 	Sun SCALAR DNS Service.
+1871	 	Cano Central 0.
+1872	 	Cano Central 1.
+1873	 	Fjmpjps.
+1874	 	Fjswapsnp.
+1875	 	westell stats.
+1876	 	ewcappsrv.
+1877	 	hp-webqosdb.
+1878	 	drmsmc.
+1879	 	NettGain NMS.
+1880	 	Gilat VSAT Control.
+1881	 	IBM MQSeries.
+1882	 	ecsqdmn.
+1883	 	IBM MQSeries SCADA.
+1884	 	Internet Distance Map Svc.
+1885	 	Veritas Trap Server.
+1886	 	Leonardo over IP.
+1887	 	FileX Listening Port.
+1888	 	NC Config Port.
+1889	TCP, UDP	Unify Web Adapter Service.
+1890	 	wilkenListener.
+1891	 	ChildKey Notification.
+1892	 	ChildKey Control.
+1893	 	ELAD Protocol.
+1894	 	O2Server Port.
+1895	 	Vista 4GL. Microsoft (unoffically).
+1896	 	b-novative license server.
+1897	 	MetaAgent.
+1898	 	Cymtec secure management.
+1899	 	MC2Studios.
+1900	 	SSDP.
+1901	 	Fujitsu ICL Terminal Emulator Program A.
+1902	 	Fujitsu ICL Terminal Emulator Program B.
+1903	 	Local Link Name Resolution.
+1904	 	Fujitsu ICL Terminal Emulator Program C.
+1905	 	Secure UP.Link Gateway Protocol.
+1906	 	TPortMapperReq.
+1907	 	IntraSTAR.
+1908	 	Dawn.
+1909	 	Global World Link.
+1910	 	ultrabac.
+1911	 	Starlight Networks Multimedia Transport Protocol.
+1912	 	rhp-iibp.
+1913	 	armadp.
+1914	 	Elm-Momentum.
+1915	 	FACELINK.
+1916	 	Persoft Persona.
+1917	 	nOAgent.
+1918	 	Candle Directory Service - NDS.
+1919	 	Candle Directory Service - DCH.
+1920	 	Candle Directory Service - FERRET.
+1921	 	NoAdmin.
+1922	 	Tapestry.
+1923	 	SPICE.
+1924	 	XIIP.
+1925	 	Surrogate Discovery.
+1926	 	Evolution Game Server.
+1927	 	Videte CIPC Port.
+1928	 	Expnd Maui Srvr Dscovr.
+1929	 	Bandwiz System - Server.
+1930	 	Drive AppServer.
+1931	 	AMD SCHED.
+1932	 	CTT Broker.
+1933	 	IBM LM MT Agent.
+1934	 	IBM LM Appl Agent.
+1935	 	TinCan.
+1936	 	JetCmeServer Server.
+1937	 	JetVWay Server.
+1938	 	JetVWay Client.
+1939	 	JetVision Server.
+1940	 	JetVision Client.
+1941	 	DIC-Aida.
+1942	 	Real Enterprise Service.
+1943	 	Beeyond Media.
+1944	 	Microsoft Close Combat.
+1945	 	dialogic-elmd.
+1946	 	tekpls.
+1947	 	SentinelSRM.
+1948	 	eye2eye.
+1949	 	ISMA Easdaq Live.
+1950	 	ISMA Easdaq Test.
+1951	 	bcs-lmserver.
+1952	 	mpnjsc.
+1953	 	Rapid Base.
+1954	 	ABR-Basic Data.
+1955	 	ABR-Secure Data.
+1956	 	Vertel VMF DS.
+1957	 	unix-status.
+1958	 	CA Administration Daemon.
+1959	 	SIMP Channel.
+1960	 	Merit DAC NASmanager.
+1961	 	BTS APPSERVER.
+1962	 	BIAP-MP.
+1963	 	WebMachine.
+1964	 	SOLID E ENGINE.
+1965	 	Tivoli NPM.
+1966	 	Slush.
+1967	 	SNS Quote.
+1968	 	LIPSinc.
+1969	 	LIPSinc 1.
+1970	 	NetOp Remote Control.
+1971	 	NetOp School.
+1972	 	Cache.
+1973	 	DCAP, Data Link Switching Client Access Protocol. DRAP, Data Link Switching Remote Access Protocol.
+1974	 	DRP.
+1975	 	TCO Flash Agent.
+1976	 	TCO Reg Agent.
+1977	 	TCO Address Book.
+1978	 	UniSQL.
+1979	 	UniSQL Java.
+1980	 	PearlDoc XACT.
+1981	 	p2pQ.
+1982	 	Evidentiary Timestamp.
+1983	 	Loophole Test Protocol.
+1984	 	Big Brother.
+1985	 	HSRP, Hot Standby Router Protocol.
+1986	 	cisco license management.
+1987	 	cisco RSRB Priority 1 port.
+1988	 	cisco RSRB Priority 2 port.
+1989	 	cisco RSRB Priority 3 port. MHSnet system - this port is unassigned but in widespread use.
+1990	 	cisco STUN Priority 1 port.
+1991	 	cisco STUN Priority 2 port.
+1992	 	cisco STUN Priority 3 port. IPsendmsg - this port is unassigned but in widespread use.
+1993	 	cisco SNMP TCP.
+1994	 	cisco serial tunnel port.
+1995	 	cisco perf port.
+1996	 	cisco Remote SRB port.
+1997	 	GDP, Gateway Discovery Protocol.
+1998	 	XOT, X.25 over TCP.
+1999	 	cisco identification port.
